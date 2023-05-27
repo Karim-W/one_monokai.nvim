@@ -5,7 +5,7 @@ local colors = {}
 
 colors.default = {
     fg = "#abb2bf",
-    bg = "#282c34",
+    bg = "#1D2120",
     gray = "#676e7b",
     pink = "#e06c75",
     green = "#98c379",
